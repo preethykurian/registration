@@ -1,3 +1,6 @@
 read name, age
 read appointment
 calclate bill
+read insurance company
+read type of insurance 
+approval process config
